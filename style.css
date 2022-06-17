@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+
+#logo{
+    flex: 1;
+
+}
+
+img:nth-last-of-type(2){
+    margin-left: 4px;
+}
+
+#mainDiv > p {
+    text-align: center;
+    width: 80%;
+}
