@@ -57,7 +57,7 @@ main{
 }
 
 #mainDiv > img{
-    margin-top: 20px;
+    margin-top: 0px;
     margin-bottom: 20px;
 }
 
@@ -77,16 +77,6 @@ h1 {
 #subheader > section {
     display: flex;
     margin-top: 0px;
-}
-
-#print {
-    min-width: 30px;
-    padding-left: 880px;
-    float: right;
-}
-
-#subheader > section > img {
-    align-self: flex-end;
 }
 
 #list{
